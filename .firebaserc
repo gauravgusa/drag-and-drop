@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "draganddrop-ca4f9": {
+      "hosting": {
+        "drag-and-drop": [
+          "draganddrop-ca4f9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "draganddrop-ca4f9"
+  }
+}
